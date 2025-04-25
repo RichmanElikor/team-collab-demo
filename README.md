@@ -1,3 +1,2 @@
 # team-collab-demo
-Project Team Members
-===============
+- Prince: Frontend Developer, React lover and UI expert.
